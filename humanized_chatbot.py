@@ -1,5 +1,5 @@
 """
-Aria - A friendly student helper chatbot
+partner - A friendly student helper chatbot
 Built with Python (no API key needed).
 
 How it feels human:
